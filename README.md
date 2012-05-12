@@ -1,7 +1,3 @@
-Trabajo-con-LaTex
-=================
-
-Aplicaciones exitosas en terminos de usuario de Context-Aware 
 \documentclass[12pt,a4paper,spanish]{report} %%%Esto indica el tipo de documento.
 %Va a ser de tipo (report), el tamaño es a4, la lengua castellano (spanish)y la fuente de tipo "paper"%%%
 \usepackage{babel} %%%Incluimos el paquete Babel
