@@ -1,17 +1,25 @@
 \documentclass[12pt,a4paper,spanish]{report} %%%Esto indica el tipo de documento.
 %Va a ser de tipo (report), el tamaño es a4, la lengua castellano (spanish)y la fuente de tipo "paper"%%%
+
 \usepackage{babel} %%%Incluimos el paquete Babel
 %que sirve para separar correctamente
 %las palabras de multitud de idiomas%%%
+
 \usepackage[latin1]{inputenc}%%%Este paquete permite poner acentos directamente%%%
+
 \usepackage{indentfirst}%%%Espaciado de
 %primera línea de cada párrafo%%%
+
 \usepackage[pdflatex]{graphicx}%%%para poder insertar imagenes
+
 \author{NOMBRE: Pedro Manuel Gómez Cano \\\\DNI: 23293223-L \\\\ASIGNATURA:Tecnología específica de la ingeniería informática}%%%para %poner el autor del documento y aprovecho para poner mi DNI y la asignatura.Pongo las barras \\ para que no salga todo seguido y salta a %la linea siguiente
+
 \title{{\bfseries Aplicaciones exitosas  en términos de usuarios de context-aware.}}%%%pongo el titulo y bfseries para ponerle negrita
+
 \date{10 de mayo de 2012}%%%para poner la fecha de creacion del documento, si no se pone pone por defecto la del dia de creacion.
 
 \begin{document}%%%Empieza del documento
+
 \maketitle
 
 \chapter{{\bfseries Introducción y motivación  } }%%%chapter es para que vaya enumerando el texto por capitulos este es el primero y lo pongo en negrita.
